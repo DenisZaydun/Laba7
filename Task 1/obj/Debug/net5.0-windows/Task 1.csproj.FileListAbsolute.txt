@@ -1,0 +1,22 @@
+E:\My_Projects\c#\2 курс\Laba7\Task 1\bin\Debug\net5.0-windows\Task 1.exe
+E:\My_Projects\c#\2 курс\Laba7\Task 1\bin\Debug\net5.0-windows\Task 1.deps.json
+E:\My_Projects\c#\2 курс\Laba7\Task 1\bin\Debug\net5.0-windows\Task 1.runtimeconfig.json
+E:\My_Projects\c#\2 курс\Laba7\Task 1\bin\Debug\net5.0-windows\Task 1.runtimeconfig.dev.json
+E:\My_Projects\c#\2 курс\Laba7\Task 1\bin\Debug\net5.0-windows\Task 1.dll
+E:\My_Projects\c#\2 курс\Laba7\Task 1\bin\Debug\net5.0-windows\ref\Task 1.dll
+E:\My_Projects\c#\2 курс\Laba7\Task 1\bin\Debug\net5.0-windows\Task 1.pdb
+E:\My_Projects\c#\2 курс\Laba7\Task 1\obj\Debug\net5.0-windows\Task 1.csproj.AssemblyReference.cache
+E:\My_Projects\c#\2 курс\Laba7\Task 1\obj\Debug\net5.0-windows\MainWindow.g.cs
+E:\My_Projects\c#\2 курс\Laba7\Task 1\obj\Debug\net5.0-windows\App.g.cs
+E:\My_Projects\c#\2 курс\Laba7\Task 1\obj\Debug\net5.0-windows\Task 1_MarkupCompile.cache
+E:\My_Projects\c#\2 курс\Laba7\Task 1\obj\Debug\net5.0-windows\Task 1_MarkupCompile.lref
+E:\My_Projects\c#\2 курс\Laba7\Task 1\obj\Debug\net5.0-windows\MainWindow.baml
+E:\My_Projects\c#\2 курс\Laba7\Task 1\obj\Debug\net5.0-windows\Task 1.g.resources
+E:\My_Projects\c#\2 курс\Laba7\Task 1\obj\Debug\net5.0-windows\Task 1.GeneratedMSBuildEditorConfig.editorconfig
+E:\My_Projects\c#\2 курс\Laba7\Task 1\obj\Debug\net5.0-windows\Task 1.AssemblyInfoInputs.cache
+E:\My_Projects\c#\2 курс\Laba7\Task 1\obj\Debug\net5.0-windows\Task 1.AssemblyInfo.cs
+E:\My_Projects\c#\2 курс\Laba7\Task 1\obj\Debug\net5.0-windows\Task 1.csproj.CoreCompileInputs.cache
+E:\My_Projects\c#\2 курс\Laba7\Task 1\obj\Debug\net5.0-windows\Task 1.dll
+E:\My_Projects\c#\2 курс\Laba7\Task 1\obj\Debug\net5.0-windows\ref\Task 1.dll
+E:\My_Projects\c#\2 курс\Laba7\Task 1\obj\Debug\net5.0-windows\Task 1.pdb
+E:\My_Projects\c#\2 курс\Laba7\Task 1\obj\Debug\net5.0-windows\Task 1.genruntimeconfig.cache
